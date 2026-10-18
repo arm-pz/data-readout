@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "data-readout",
+  "version": "0.1.0",
+  "description": "Turns a dataset, export or single number into a written readout: findings ranked by impact, statistics with effect sizes, chart specs, forecasts, A/B calls, dashboard metrics.",
+  "author": {
+    "name": "arm-pz",
+    "url": "https://github.com/arm-pz"
+  },
+  "homepage": "https://github.com/arm-pz/data-readout",
+  "repository": "https://github.com/arm-pz/data-readout",
+  "keywords": ["data-analysis", "statistics", "a-b-testing", "forecasting", "dashboards", "reporting"],
+  "skills": "./skills/"
+}
